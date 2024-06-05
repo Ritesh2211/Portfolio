@@ -1,13 +1,7 @@
 
-
----
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
-
----
-
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+### Welcome to my portfolio! I am a Full Stack Developer with a passion for creating dynamic, responsive, and user-friendly web applications. My expertise spans both front-end and back-end development, enabling me to deliver comprehensive and efficient solutions. Here, you'll find a selection of projects that highlight my technical skills, problem-solving abilities, and dedication to continuous learning. Thank you for exploring my work.
 
 ---
 
