@@ -8,7 +8,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Crypto-Dhan Web App ',
-        description: " The app enhanced the user experience by offering a responsive and intuitive interface, allowing users to easily navigate through cryptocurrency data and make informed decisions. Conducted testing, debugging, and deployment to ensure high-quality delivery.Through features like trending and saved, the app facilitated efficient analysis of cryptocurrency data, enablingusers to quickly identify promising investment opportunities or track market trends.",
+        description: " The app enhanced the user experience by offering a  intuitive interface, allowing users to easily navigate through cryptocurrency data and make informed decisions. Conducted testing, debugging, and deployment to ensure high-quality delivery.Through features like trending and saved, the app facilitated efficient analysis of cryptocurrency data, enablingusers to quickly identify promising investment opportunities or track market trends.",
         tools: ['React', 'Tailwindcss', 'CoinGeko API', ],
         role: 'Full Stack Developer',
         livePreview: 'https://crypto-dhan.vercel.app/', // Add your project demo link here   
@@ -40,14 +40,14 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Simon Game',
-        description: " I developed a Game which creates a series of tones and lights. Players should press the colored pads in the correct order to repeat random sequences of lights. As the game progresses, the sequences lengthen and increase in speed to become more challenging. The game is over if the user fails to remember the sequence. ",
-        tools: ['HTML', 'CSS', 'Javascript'],
+        name: 'Personal Bookeshelf',
+        description: "About Book Search: Users can search for books by title, author, or ISBN using the Open Library API. Add to Bookshelf: Users can add books to their personal bookshelf. Remove from Bookshelf: Users can remove books from their bookshelf. Responsive Design: The application is responsive and works well on both desktop and mobile device.",
+        tools: ['React', 'Tailwind CSS', 'Open Library API'],
         code: '',
-        livePreview: 'https://ritesh2211.github.io/Simon-Game/', // Add your project demo link here 
+        livePreview: 'https://personal-bookshelf-main.vercel.app/', // Add your project demo link here 
         demo: '',
         image: ayla,
-        role: 'Front End Developer',
+        role: 'Full Stack Developer',
     }
 ];
 
