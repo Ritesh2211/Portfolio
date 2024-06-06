@@ -40,7 +40,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Personal Bookeshelf',
+        name: 'Personal Bookshelf',
         description: "About Book Search: Users can search for books by title, author, or ISBN using the Open Library API. Add to Bookshelf: Users can add books to their personal bookshelf. Remove from Bookshelf: Users can remove books from their bookshelf. Responsive Design: The application is responsive and works well on both desktop and mobile device.",
         tools: ['React', 'Tailwind CSS', 'Open Library API'],
         code: '',
