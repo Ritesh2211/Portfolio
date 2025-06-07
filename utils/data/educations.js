@@ -1,7 +1,7 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor In Technology 8.73 cgpa",
+    title: "Bachelor In Technology 8.2 cgpa",
     duration: "2020 - 2024",
     institution: "Bharti Vidyapeeth College of Engineering",
   },
