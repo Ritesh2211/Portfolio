@@ -1,6 +1,12 @@
 // @flow strict
 
 import { experiences } from "@/utils/data/experience";
+import {
+  BriefcaseIcon,
+  BuildingOfficeIcon,
+  DocumentTextIcon,
+  WrenchScrewdriverIcon
+} from "@heroicons/react/24/outline";
 import Image from "next/image";
 import { BsPersonWorkspace } from "react-icons/bs";
 import AnimationLottie from "../../helper/animation-lottie";
@@ -59,12 +65,30 @@ function Experience() {
                           <BsPersonWorkspace size={36} />
                         </div>
                         <div>
-                          <p className="text-base sm:text-xl mb-2 font-medium uppercase">
-                            {experience.title}
-                          </p>
-                          <p className="text-sm sm:text-base">
-                            {experience.company}
-                          </p>
+  {/* Title with icon */}
+<p className="flex items-center gap-2 text-xl sm:text-2xl font-bold uppercase mb-2 border-b border-white/20 pb-1">
+  <BriefcaseIcon className="w-5 h-5 text-yellow-400" />
+  {experience.title}
+</p>
+
+{/* Company with icon */}
+<p className="flex items-center gap-2 text-base sm:text-lg font-semibold mb-2 border-b border-white/10 pb-1">
+  <BuildingOfficeIcon className="w-5 h-5 text-blue-400" />
+  {experience.company}
+</p>
+
+{/* Description with icon */}
+<p className="flex items-center gap-2 text-sm sm:text-base text-gray-300 mb-2 border-b border-white/10 pb-1 leading-relaxed">
+  <DocumentTextIcon className="w-5 h-5 text-green-400" />
+  {experience.description}
+</p>
+
+{/* Technologies with icon */}
+<p className="flex items-center gap-2 text-sm sm:text-base italic tracking-wide text-gray-400">
+  <WrenchScrewdriverIcon className="w-5 h-5 text-purple-400" />
+  {experience.technologies}
+</p>
+
                         </div>
                       </div>
                     </div>

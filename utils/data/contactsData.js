@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'riteshkatwe29@gmail.com',
-    address: 'India Pune',
+    address: 'India',
     github: 'https://github.com/ritesh2211',
    // facebook: 'https://www.facebook.com/abusaid.riyaz/',
     linkedIn: 'https://www.linkedin.com/in/ritesh-katwe/',
