@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Software Engineer',
     company: "LTIMindtree",
-    duration: "(Sep 2023 - currently)",
+    duration: "(Sep 2024 - currently)",
     description: "Machine Learning Engineer developing advanced models to enhance security and efficiency in ACH payments for a banking client.",
     technologies: [
   "Python ,",
