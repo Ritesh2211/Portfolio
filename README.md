@@ -9,7 +9,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here]().
+## View live preview [here](https://riteshkatwe.vercel.app/).
 
 ---
 
