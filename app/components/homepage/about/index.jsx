@@ -150,7 +150,7 @@ function AboutSection() {
   </p>
 
   <p>
-    <strong className="text-white">When I&apos;m not coding?</strong> Gym, gaming, music, overthinking, or pretending I'll stop scrolling after one more reel.
+    <strong className="text-white">When I&apos;m not coding?</strong> Gym, gaming, music, overthinking, or pretending I&apos;ll stop scrolling after one more reel.
   </p>
 
   <p>
