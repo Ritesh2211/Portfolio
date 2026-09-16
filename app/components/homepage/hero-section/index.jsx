@@ -504,9 +504,8 @@ export default function HeroSection() {
                 lg:mx-0
               "
             >
-              2.1 years into engineering, still curious,
-              still building — mostly data pipelines,
-              financial systems, and whatever interesting
+              2.1+ years into Software engineering, still curious,
+              still building — mostly data pipelines, and whatever interesting
               problem comes next.
             </p>
 

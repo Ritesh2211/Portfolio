@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "Software Engineer",
-    company: "LTIMindtree",
+    company: "LTM (Previously:LTIMindtree)",
     duration: "(Sep 2024 - Present) 2.1+ Years of Experience",
 
     description:
