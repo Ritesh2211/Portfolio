@@ -1,9 +1,9 @@
 export const personalData = {
-  name: "Ritesh Katwe",
+  name: "Ritesh Katwe!",
   profile: '/profile.png',
   designation: "Software Engineer",
   description: "I build cool, functional web stuff — usually with way too much coffee in hand. From smooth, eye-catchy interfaces to clever behind-the-scenes magic, I’m all about turning ideas into reality.Stick around and scroll down to see what I’ve been cooking up.",
-  email: 'riteshkatwe29@gmail.com',
+  email: 'askritesh29@gmail.com',
   phone: 'Please Email Me',
   address: 'India',
   github: 'https://github.com/ritesh2211',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/16840768/writeusernname here',
   leetcode: "https://leetcode.com/u/ritesh_2211/",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1CykfxSQJUsyYnQHTAtR60uTxzqDAoGip/view"
+  resume: "https://drive.google.com/file/d/1x5PDDR-84WsLelRGIXlaAJbH8a0gjxNh/view?usp=sharing"
 }

@@ -1,33 +1,19 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
+    title: "Software Engineer",
     company: "LTIMindtree",
-    duration: "(Sep 2024 - currently)",
-    description: "Machine Learning Engineer developing advanced models to enhance security and efficiency in ACH payments for a banking client.",
+    duration: "(Sep 2024 - Present) 2.1+ Years of Experience",
+
+    description:
+      "• Built and maintained ETL pipelines processing 20K+ ACH financial transactions daily for fraud analytics and risk reporting, ensuring high data quality through validation, deduplication, and anomaly detection.\n\n• Developed scalable data solutions using Python, SQL, AWS, and Apache Airflow, optimizing pipeline performance, automating workflows, and supporting reliable production reporting systems.",
+
     technologies: [
-  "Python ,",
-  "Pandas ,",
-  "NumPy ,",
-  "Scikit-learn ,",
-  "imbalanced-learn ,",
-  "Feature Engineering ,",
-  "XGBoost ,",
-  "LightGBM ,",
-  "Random Forest ,",
-  "Model Evaluation (ROC-AUC, Precision-Recall) ,",
-]
-  },
-  // {
-  //   id: 2,
-  //   title: "Web Developer Intern",
-  //   company: "Bharat Intern",
-  //   duration: "(JuL 2021 - Aug 2022)"
-  // },
-  /*{
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }*/
-]
+      "Python, ",
+      "SQL, ",
+      " ",
+      "AWS, ",
+      "PySpark"
+    ]
+  }
+];

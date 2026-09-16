@@ -1,22 +1,73 @@
+// export const skillsData = [
+//   'HTML',
+//   'CSS',
+//   'Javascript',
+//   'Typescript',
+//   'React',
+//   'Next JS',
+//   'Tailwind',
+//   'MongoDB',
+//   'MySQL',
+//   'PostgreSQL',
+//   'Git',
+//   'Bootstrap',
+//   'Figma',
+//   'MaterialUI',
+//   'Java',
+//   'Python',
+// ]
 export const skillsData = [
-  'HTML',
-  'CSS',
-  'Javascript',
-  'Typescript',
-  'React',
-  'Next JS',
-  'Tailwind',
-  'MongoDB',
-  'MySQL',
-  'PostgreSQL',
-  'Git',
-  'Bootstrap',
-  'Figma',
-  'MaterialUI',
-  'Java',
-  'Python',
-]
+  // Programming
+  "Python",
+  "SQL",
+  "Java",
 
+  // Data Engineering
+  "PySpark",
+  "Apache Spark",
+  "Apache Airflow",
+  "ETL",
+  "Data Pipelines",
+  "Data Modeling",
+  "Data Warehousing",
+  "Batch Processing",
+  "Data Validation",
+  "Data Quality",
+
+  // AWS
+  "AWS",
+  "Amazon S3",
+  "AWS Lambda",
+  "AWS EC2",
+  "AWS IAM",
+  "Amazon RDS",
+  "CloudWatch",
+
+  // Databases
+  "PostgreSQL",
+  "MySQL",
+
+  // Python / Data
+  "Pandas",
+  "NumPy",
+
+  // Development
+  "Git",
+  "Linux",
+  "REST APIs",
+
+  // ML
+  "Scikit-learn",
+  "Feature Engineering",
+
+  // Full Stack
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Next.js",
+  "Tailwind CSS",
+  "Node.js",
+];
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
 
