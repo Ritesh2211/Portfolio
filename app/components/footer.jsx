@@ -301,7 +301,7 @@ export default function Footer() {
                 mb-6
               "
             >
-              Let's Connect
+              Let&apos;s Connect
             </h3>
 
             <p

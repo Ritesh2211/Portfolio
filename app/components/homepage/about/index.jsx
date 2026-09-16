@@ -150,7 +150,7 @@ function AboutSection() {
   </p>
 
   <p>
-    <strong className="text-white">When I'm not coding?</strong> Gym, gaming, music, overthinking, or pretending I'll stop scrolling after one more reel.
+    <strong className="text-white">When I&apos;m not coding?</strong> Gym, gaming, music, overthinking, or pretending I'll stop scrolling after one more reel.
   </p>
 
   <p>
@@ -158,11 +158,11 @@ function AboutSection() {
   </p>
 
   <p>
-    <strong className="text-white">My weakness?</strong> “It's just a small project.” — famous last words.
+    <strong className="text-white">My weakness?</strong> “It&apos;s just a small project.” — famous last words.
   </p>
 
   <p>
-    <strong className="text-white">What's next?</strong> Keep building, keep breaking things, keep learning, and become ridiculously good at this.
+    <strong className="text-white">What&apos;s next?</strong> Keep building, keep breaking things, keep learning, and become ridiculously good at this.
   </p>
               
             </div>

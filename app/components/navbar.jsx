@@ -207,7 +207,7 @@ export default function Navbar() {
             font-semibold
           "
         >
-          Let's Talk
+          
           <HiArrowRight />
         </button>
       </ScrollLink>

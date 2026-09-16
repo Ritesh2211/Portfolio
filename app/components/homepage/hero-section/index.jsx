@@ -485,7 +485,7 @@ export default function HeroSection() {
                 text-white
               "
             >
-              Hi, I'm{" "}
+              Hi, I&apos;m{" "}
               <span className="text-white font-semibold">
                 {personalData.name}
               </span>
@@ -759,7 +759,7 @@ export default function HeroSection() {
                       mt-2
                     "
                   >
-                    Let's collaborate on a project!
+                    Let&apos;s collaborate on a project!
                   </h3>
 
                   <p
