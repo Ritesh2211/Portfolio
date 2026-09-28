@@ -99,19 +99,26 @@ export const projectsData = [
 
   // AI/ML
 
-  // {
-  //   id: 3,
-  //   name: "ACH Fraud Detection System",
-  //   description:
-  //     "Designed fraud analytics workflows on ACH payment datasets with anomaly detection, schema validation and risk reporting.",
-  //   tools: ["Python", "SQL", "Pandas", "AWS"],
-  //   category: "AI/ML",
-  //   role: "Machine Learning Engineer",
-  //   code: "",
-  //   livePreview: "",
-  //   demo: "",
-  //   // image: realEstate,
-  // },
+{
+  id: 3,
+  name: "Pharma Commercial Decision Analytics",
+  description:
+    "Built a commercial analytics platform for a fictional pharma brand combining market sizing, physician segmentation, demand forecasting, pricing elasticity, scenario analysis and executive insights.",
+  tools: [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "Scikit-learn",
+    "Forecasting"
+  ],
+  category: "AI/ML",
+  role: "Data & Analytics Engineer",
+  code: "",
+  livePreview: "https://github.com/Ritesh2211/pharma-analytics-platform/tree/main",
+  demo: "",
+  image: "/Projectimages/pharmaanalytics.png",
+},
 
   // WEB PROJECTS
 
